@@ -1,0 +1,82 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cuál era el numero de la insitución anteriormente?",
+        "respuesta": "5060",
+        "incorrecta1": "75",
+        "incorrecta2": "5034",
+        "incorrecta3": "3102"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cuál es el número de la escuela a la qué perteneces?",
+        "respuesta": "3159",
+        "incorrecta1": "3102",
+        "incorrecta2": "5007",
+        "incorrecta3": "3131"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Con qué título egresan los alumnos de turno mañana?",
+        "respuesta": "Técnico Químico",
+        "incorrecta1": "Técnico Electronico",
+        "incorrecta2": "Tecnico Mecanico",
+        "incorrecta3": "Economía y Adminstración"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Con qué título egresan los alumnos de turno tarde?",
+        "respuesta": "Técnico en tecnologia de los alimentos",
+        "incorrecta1": "Técnico Químico",
+        "incorrecta2": "Filosofía",
+        "incorrecta3": "Ciencias Naturales"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Quienes son los directivos actualmente",
+        "respuesta": "Rosana Ortali - Silvia Rivero",
+        "incorrecta1": "Rosana Ortali - Joe Barranco",
+        "incorrecta2": "Clelia Palacios - Joe Barranco",
+        "incorrecta3": "Larry Salcedo - Juan José Meloni"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cómo se llaman las bibliotecarias de la institución?",
+        "respuesta": "Rosana Arancibia - Hilaria Barrios",
+        "incorrecta1": "Hilaria Barrios - Rosana ortali",
+        "incorrecta2": "Rosana Arancibia - Norma Rocha",
+        "incorrecta3": "Gregoria Hoyos - Cinthia Vaca"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Que materia dicta la profesora Cecilia Córdoba?",
+        "respuesta": "Termodinamica - Fisica experimental",
+        "incorrecta1": "Química Ambiental",
+        "incorrecta2": "Estadisticas",
+        "incorrecta3": "Química organica e inorganica"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Que elementos aparecen el escudo de la institución?",
+        "respuesta": "Microscopio y tubos de ensayo",
+        "incorrecta1": "Tubos de ensayo y libros",
+        "incorrecta2": "Papel y pluma",
+        "incorrecta3": "Espada y escudo"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Como se llama la actual presidente del centro de estudiantes?",
+        "respuesta": "Antonella Sulca",
+        "incorrecta1": "Luciana Carrizo",
+        "incorrecta2": "Tobia Paz",
+        "incorrecta3": "Felíx"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Cuántos directores tuvo la insitución?",
+        "respuesta": "2",
+        "incorrecta1": "5",
+        "incorrecta2": "4",
+        "incorrecta3": "1"
+    }
+]
